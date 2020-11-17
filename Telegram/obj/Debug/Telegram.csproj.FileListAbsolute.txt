@@ -1,0 +1,13 @@
+C:\Users\Mahmoud\source\repos\Telegram\Telegram\bin\Debug\Telegram.exe.config
+C:\Users\Mahmoud\source\repos\Telegram\Telegram\bin\Debug\Telegram.exe
+C:\Users\Mahmoud\source\repos\Telegram\Telegram\bin\Debug\Telegram.pdb
+C:\Users\Mahmoud\source\repos\Telegram\Telegram\bin\Debug\RestSharp.dll
+C:\Users\Mahmoud\source\repos\Telegram\Telegram\bin\Debug\RestSharp.xml
+C:\Users\Mahmoud\source\repos\Telegram\Telegram\obj\Debug\Telegram.csprojAssemblyReference.cache
+C:\Users\Mahmoud\source\repos\Telegram\Telegram\obj\Debug\Telegram.csproj.CoreCompileInputs.cache
+C:\Users\Mahmoud\source\repos\Telegram\Telegram\obj\Debug\Telegram.csproj.CopyComplete
+C:\Users\Mahmoud\source\repos\Telegram\Telegram\obj\Debug\Telegram.exe
+C:\Users\Mahmoud\source\repos\Telegram\Telegram\obj\Debug\Telegram.pdb
+C:\Users\Mahmoud\source\repos\Telegram\Telegram\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Mahmoud\source\repos\Telegram\Telegram\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Mahmoud\source\repos\Telegram\Telegram\bin\Debug\HtmlAgilityPack.xml
